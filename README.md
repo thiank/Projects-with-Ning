@@ -1,6 +1,6 @@
 # Projects-with-Ning
 random stats and machine learning stuff
-**Disclaimers: Ning's code but inspired by Ian's dataset and written by Ian so there's a lot of profanity. Ning does not claim any responsibility for all the cursing. I don't either but whatever. The below does not reflect any views by the authors, despite the correct assumption that they wrote it.**
+<br />**Disclaimers: Ning's code but inspired by Ian's dataset and written by Ian so there's a lot of profanity. Ning does not claim any responsibility for all the cursing. I don't either but whatever. The below does not reflect any views by the authors, despite the correct assumption that they wrote it.**
 
 # Today's topic: T-tests vs. Permutation Tests
 

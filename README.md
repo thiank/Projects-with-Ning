@@ -1,5 +1,6 @@
 # Projects-with-Ning
 random stats and machine learning stuff
+
 <br />**Disclaimers: Ning's code but inspired by Ian's dataset and written by Ian so there's a lot of profanity. Ning does not claim any responsibility for all the cursing. I don't either but whatever. The below does not reflect any views by the authors, despite the correct assumption that they wrote it.**
 
 # Today's topic: T-tests vs. Permutation Tests
@@ -33,6 +34,3 @@ When doing t-tests, we have to assume:
 <br />Because there are no better alternatives. p.s. but it don't have to be. We are the purveyors of dis light, the deus ex machina of your statistical nonchalance.
 <br />/end rant
 
-ANYWAY, **results, results, results**. 
-<br />You can see on the Results + Blue-And-Yellow figure that we have generated two sets of data (datasets A and B) and t-tested them.
-<br />You can also see that assuming equal variance and non-equal variance changes the statistical significance of the difference between the datasets A and B. #told-you-so #assumptions-matter

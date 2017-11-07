@@ -18,9 +18,9 @@ What we did here:
 
 When doing t-tests, we have to assume:
 
-1. independent sampling (every single subject is randomly sampled, aka, subject 1 and subject 2 and subject 3 are independently sampled. but they're not. but we can't do anything about dis. wtf, aka in psychology terms, wutever.)
+1. independent sampling (every single subject is randomly sampled, aka, subject 1 and subject 2 and subject 3 are independently sampled. but they're not. but we can't do anything about dis. meh, aka in psychology terms, wutever.)
 
-2. normalization, aka normal distribution (personal note: I don't think any of the shit we test is normal a lot of the times, but let's thank Fisher's gargantuan legacy and the lazy-as-fuck posterity children that we are for just going with the flow)
+2. normalization, aka normal distribution (personal note: I don't think any of the stuff we test is normal a lot of the times, but let's thank Fisher's gargantuan legacy and the lazy posterity children that we are for just going with the flow)
 
 3. equal variance (we can assume both cases: equal and non-equal variance, so we will below (because we be thorough))
 
